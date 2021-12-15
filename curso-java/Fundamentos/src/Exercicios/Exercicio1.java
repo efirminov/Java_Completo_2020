@@ -1,7 +1,7 @@
 /**
  * 
  */
-package fundamento.parte1;
+package Exercicios;
 
 import java.util.Scanner;
 
