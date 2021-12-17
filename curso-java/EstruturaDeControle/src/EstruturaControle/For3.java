@@ -9,7 +9,6 @@ public class For3 {
 				System.out.printf("[%d %d]\n", i, j);	
 			}
 			System.out.println();
-		}
-		
+		}		
 	}
 }
